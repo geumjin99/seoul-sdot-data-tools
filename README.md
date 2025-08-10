@@ -21,6 +21,13 @@ This repository provides scripts and utilities for processing and analyzing envi
 - **Statistical summaries**: Min, max, average | 통계 요약: 최소값, 최대값, 평균값
 
 ---
+## 🗺 Visualization Examples | 시각화 예시
+
+**Dynamic Map | 동적 지도**  
+![Dynamic Map](images/onlinemap.png)
+
+**Static Heatmap | 정적 히트맵**  
+![Static Heatmap](images/seoul_heatmap_TEMP_20240115.png)
 
 ## 🗂 Example JSON Structure | JSON 구조 예시
 ```json
@@ -33,11 +40,3 @@ This repository provides scripts and utilities for processing and analyzing envi
     "HUMI": [45, 50, 42, ...]
   }
 }
-
-## 🗺 Visualization Examples | 시각화 예시
-
-**Dynamic Map | 동적 지도**  
-![Dynamic Map](images/onlinemap.png)
-
-**Static Heatmap | 정적 히트맵**  
-![Static Heatmap](images/seoul_heatmap_TEMP_20240115.png)
